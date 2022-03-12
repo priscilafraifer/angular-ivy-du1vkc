@@ -4,7 +4,7 @@ export const listData = [
     text: 'Desenvolvimento para Servidores I',
     dia: 'Segunda-Feira',
     hora: '09:30-13:00',
-    dados: '-',
+    dados: 'IDS001A-ALEXANDRE GARCIA DE OLIVEIRA',
     ementa:
       'PHP histórico e emprego. Instalação e configuração básica do PHP e um IDE. Sintaxe básica do PHP. Usando o PHP como um mecanismo de modelo simples. Panorama das melhores práticas com PHP. Conceitos de programação HTTP. Codificação de caracteres. Localidades, fusos horários e funções de tempo. Strings. Uso de Array e funções de matriz. Orientação a objetos em PHP (Classes, objetos, herança, encapsulamento, polimorfismo, agregação, composição e métodos). Tratamento de exceções de erro. Arquitetura do lado do servidor. Manipulação de dados postados. Enviando e-mail. Sessões e autenticação. Cookies. Arquivo manuseio e armazenamento de dados em arquivos de texto. Gerenciador de banco de dados e suas funções. Frameworks. Web Services, API, RSS, JSON e Ajax. Hospedagem compartilhada',
     objetivo:
