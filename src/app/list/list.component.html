@@ -1,8 +1,10 @@
 <h2>Lista</h2>
 <table border="1">
   <tr>
-    <th>ID</th>
-    <th>TEXTO</th>
+    <th>CÓDIGO</th>
+    <th>NOME</th>
+    <th>DIA DA SEMANA</th>
+    <th>HORÁRIO</th>
   </tr>
   <tr *ngFor="let item of list; index as i">
     <td>
@@ -11,5 +13,7 @@
       </a>
     </td>
     <td>{{ item.text }}</td>
+    <td>{{ item.dia }}</td>
+    <td>{{ item.hora }}</td>
   </tr>
 </table>
