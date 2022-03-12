@@ -5,6 +5,9 @@
     <th>NOME</th>
     <th>DIA DA SEMANA</th>
     <th>HORÁRIO</th>
+    <th>DADOS DA DISCIPLINA</th>
+    <th>EMENTA</th>
+    <th>OBJETIVOS</th>
   </tr>
   <tr *ngFor="let item of list; index as i">
     <td>
@@ -15,5 +18,8 @@
     <td>{{ item.text }}</td>
     <td>{{ item.dia }}</td>
     <td>{{ item.hora }}</td>
+    <td>{{ item.dados }}</td>
+    <td>{{ item.ementa }}</td>
+    <td>{{ item.objetivo }}</td>
   </tr>
 </table>
