@@ -37,17 +37,19 @@ export const listData = [
     text: 'Projeto de Navegação e Interação',
     dia: '	Quinta-Feira',
     hora: '09:30-13:00',
-    dados: '-',
-    ementa: '-',
-    objetivo: '-',
+    dados: 'ISW010A-ROSEMEIRE CARDOZO VIDAL',
+    ementa:
+      'Arquitetura de Informação. Levantamento de requisitos / conteúdo Web.  Definição do projeto: organização e estrutura de interação. Estrutura de processo. Design de interação. O princípio do projeto da UX. Definição do produto e público. Pesquisa de usuário. Personas. Métodos de investigação e avaliação. Projeto conceitual. Design detalhado. Design da experiência do usuário e otimização de site de busca. Transição da definição para a projeção. Mapas do site e fluxos de tarefa. Prototipagem light.  Wireframes e anotações. Teste do design com usuários. Transição do design ao desenvolvimento',
+    objetivo:
+      'Apresentar aos estudantes os princípios fundamentais e metodologias de Arquitetura da Informação e do Design da interação com usuário para definir um projeto de software para Internet em termos de sua finalidade, escopo, audiência, elementos principais, fluxos de tarefas, layout, etc. Padrões de projeto.  Frameworks  serão introduzidos a fim de criar interfaces que mapeiem as expectativas dos usuários e melhorem a experiência do usuário (UX), incluindo levantamentos de requisitos com usuários,  avaliação de conteúdo e de organização,  documentação de processos no âmbito dos sistemas, definição de estruturas organizacionais e desenvolvimento de protótipos interativos. Objetivos específicos. Os estudantes irão identificar uma necessidade, definir uma solução, e criar produtos para um projeto inteiro com o design de navegação e de interação. Determinar a finalidade do negócio de um novo site. Definir as audiências preliminares, a definição do produto e público. Realizar uma análise heurística de um site existente. Identificar Design Patterns. Definir as tarefas-chave. Criar: Storyboards, projeto conceitual. Escrever uma especificação funcional. Criar designs de interação. Comunicar o design detalhado. Avaliar ferramentas de prototipagem. Construir um protótipo final cuidando para se obter uma recuperação eficiente da informação',
   },
   {
     id: 5,
     text: 'Tópicos Especiais em Sistemas para Internet II',
     dia: 'Sexta-Feira1',
     hora: '19:00-22:30',
-    dados: '-',
-    ementa: '-',
-    objetivo: '-',
+    dados: 'ITE004A-RICARDO PUPO LARGUESA',
+    ementa: 'Recursos e aplicações da tecnologia escolhida',
+    objetivo: 'Apresentar tecnologias ainda não estudadas ou aprofundar algum tema já visto definido pela coordenadoria do curso em cada unidade. Objetivos específicos. Estudar e aplicar tecnologias de uso corrente na região na qual o curso de insere ou de interesse para o desenvolvimento profissional dos estudantes ou desenvolver temas que aprofundem algum conhecimento já estudado',
   },
 ];
